@@ -1,8 +1,8 @@
 <?php
 $lang = array(
     //Download
-    'download_user_error' => "USER ERROR",
-    'download_no_id' => "No torrent with that ID exists",
-    'download_passkey' => 'Your download link doesnt have a passkey',
+    'download_user_error' => "ERREUR UTILISATEUR",
+    'download_no_id' => "Aucun torrent n'existe avec cet ID",
+    'download_passkey' => "Votre lien de download ne comporte aucun passkey"
 );
 ?>

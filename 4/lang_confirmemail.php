@@ -1,11 +1,11 @@
 <?php
 $lang = array(
     //Confirmmail
-    'confirmmail_user_error' => "USER ERROR",
-    'confirmmail_idiot' => "Idiot, no data!",
-    'confirmmail_no_key' => "No key set",
-    'confirmmail_no-id' => "No id set",
-    'confirmmail_false_email' => "Not a real email address!",
-    'confirmmail_not_complete' => "Cannot complete",
+    'confirmmail_user_error' => "ERREUR UTILISATEUR",
+    'confirmmail_idiot' => "Tête en l'air... aucune donnée!",
+    'confirmmail_no_key' => "Aucune clé paramêtrée",
+    'confirmmail_no-id' => "Aucune ID paramêtrée",
+    'confirmmail_false_email' => "Ce n'est pas une adresse email valide!",
+    'confirmmail_not_complete' => "Parachevement impossible!",
 );
 ?>

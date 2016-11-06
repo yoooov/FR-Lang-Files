@@ -1,9 +1,9 @@
 <?php
 $lang = array(
     //Chat
-    'chat_channel' => "The official IRC channel is ",
-    'chat_on' => " on the ",
-    'chat_network' => "network.",
-    'chat_chat' => "Chat",
+    'chat_channel' => "Le channel IRC officiel est ",
+    'chat_on' => " sur le ",
+    'chat_network' => "réseau.",
+    'chat_chat' => "Chat"
 );
 ?>

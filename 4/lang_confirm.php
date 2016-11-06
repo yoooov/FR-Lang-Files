@@ -1,20 +1,10 @@
 <?php
 $lang = array(
     //Confirm
-    'confirm_user_error' => "USER ERROR",
-    'confirm_invalid_id' => "Sorry, you have an invalid id",
-    'confirm_invalid_key' => "Sorry, you have an invalid key",
-    'confirm_cannot_confirm' => "Sorry, Cannot confirm you",
-    'confirm_' => "",
-    'confirm_' => "",
-    'confirm_' => "",
-    'confirm_' => "",
-    'confirm_' => "",
-    'confirm_' => "",
-    'confirm_' => "",
-    'confirm_' => "",
-    'confirm_' => "",
-    'confirm_' => "",
-    'confirm_' => "",
+    'confirm_user_error' => "ERREUR UTILISATEUR",
+    'confirm_invalid_id' => "Désolé, votre ID est invalide",
+    'confirm_invalid_key' => "Désolé, votre clé est invalide",
+    'confirm_cannot_confirm' => "Désolé, la confirmation est impossible",
+    'confirm_' => ""
 );
 ?>
