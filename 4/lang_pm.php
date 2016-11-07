@@ -154,7 +154,7 @@ $lang = array(
 	'pm_search_sysbot' => "System-Bot",
 	'pm_search_title' => "Recherche Messages",
 	'pm_search_s' => "Recherche dans les Messages",
-	'pm_search_btn' => "Chercher!",
+	'pm_search_btn' => "search",
 	'pm_search_terms' => "Chercher la chaîne de termes:",
 	'pm_search_common' => " [ termes à rechercher, les articles (le, la, un, etc...) seront ignorés ]",
 	'pm_search_box' => "Chercher dans la Boîte:",
@@ -185,7 +185,6 @@ $lang = array(
 	'pm_search_display' => "Afficher comme:",
 	'pm_search_list' => "Liste ",
 	'pm_search_message' => "Message",
-	'pm_search_btn' => "search",
 	'pm_search_your_for' => "Votre recherche pour la chaîne ",
 	'pm_search_pms' => "\'s PMs",
 	'pm_search_sysmsg' => "messages System",
@@ -290,6 +289,7 @@ $lang = array(
 	'pm_viewmsg_sys' => "System",
 	//addby yoooov
 	'pm_mailbox_doav' => "Afficher les avatars sur la liste de PM",
-	'pm_edmail_email_notif3' => "Notification de Torrent:"
+	'pm_edmail_email_notif3' => "Notification de Torrent:",
+	'pm_search_btn1' => "Chercher"
 );
 ?>
