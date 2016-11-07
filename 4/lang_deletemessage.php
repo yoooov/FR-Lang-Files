@@ -1,14 +1,14 @@
 <?php
 $lang = array(
     //DeleteMessage
-    'deletemessage_bad_id' => "Bad message ID",
-    'deletemessage_dont_do' => "I wouldn't do that if i were you...",
-    'deletemessage_code1' => "delete failed (error code 1).. this should never happen, contact an admin.",
-    'deletemessage_code2' => "delete failed (error code 2).. this should never happen, contact an admin.",
-    'deletemessage_not_inbox' => "The message is not in your Inbox.",
-    'deletemessage_code3' => "delete failed (error code 3).. this should never happen, contact an admin.",
-    'deletemessage_code4' => "delete failed (error code 4).. this should never happen, contact an admin.",
-    'deletemessage_sentbox' => "The message is not in your Sentbox.",
-    'deletemessage_unknown' => "Unknown PM type.",
+    'deletemessage_bad_id' => "Mauvais ID de message",
+    'deletemessage_dont_do' => "Je ne ferai pas ça à votre place...",
+    'deletemessage_code1' => "suppression impossible (erreur code 1).. ça n'aurait pas dû arriver, contacter un admin.",
+    'deletemessage_code2' => "suppression impossible (erreur code 2).. ça n'aurait pas dû arriver, contacter un admin.",
+    'deletemessage_not_inbox' => "Ce message n'est pas dans votre boîte 'Reçus'.",
+    'deletemessage_code3' => "suppression impossible (erreur code 3).. ça n'aurait pas dû arriver, contacter un admin.",
+    'deletemessage_code4' => "suppression impossible (erreur code 4).. ça n'aurait pas dû arriver, contacter un admin.",
+    'deletemessage_sentbox' => "Ce message n'est pas dans votre boîte 'Envoyés'.",
+    'deletemessage_unknown' => "Type de PM inconnu."
 );
 ?>
