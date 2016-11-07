@@ -72,10 +72,3 @@ $INSTALLER09['char_set'] = 'UTF-8'; //also to be used site wide in meta tags
 if (ini_get('default_charset') != $INSTALLER09['char_set']) {
     ini_set('default_charset', $INSTALLER09['char_set']);
 ```
-
-**Please take note**:
-
-Ensure that in your apache configuration (httpd.conf) uft-8 is enabled :
-
-AddDefaultCharset utf-8
-
