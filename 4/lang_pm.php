@@ -1,4 +1,21 @@
 <?php
+/**
+ |--------------------------------------------------------------------------|
+ |   https://github.com/Bigjoos/                                            |
+ |--------------------------------------------------------------------------|
+ |   Licence Info: WTFPL                                                    |
+ |--------------------------------------------------------------------------|
+ |   Copyright (C) 2010 U-232 V5                                            |
+ |--------------------------------------------------------------------------|
+ |   A bittorrent tracker source based on TBDev.net/tbsource/bytemonsoon.   |
+ |--------------------------------------------------------------------------|
+ |   Project Leaders: Mindless, Autotron, whocares, Swizzles.               |
+ |--------------------------------------------------------------------------|
+  _   _   _   _   _     _   _   _   _   _   _     _   _   _   _
+ / \ / \ / \ / \ / \   / \ / \ / \ / \ / \ / \   / \ / \ / \ / \
+( U | - | 2 | 3 | 2 )-( S | o | u | r | c | e )-( C | o | d | e )
+ \_/ \_/ \_/ \_/ \_/   \_/ \_/ \_/ \_/ \_/ \_/   \_/ \_/ \_/ \_/
+ */
 $lang = array(
 	'pm_error' => "Erreur",
 	'pm_error_ruffian' => "Quand on passe sa vie à s'occuper de voyous, on a tendance à attraper quelques-uns de leurs vices, c'est inévitable.",
@@ -141,10 +158,10 @@ $lang = array(
 	'pm_draft_err1' => "Pour sauvegarder un message dans votre dossier 'Brouillons', il doit comporter un corps de texte!",
 	'pm_draft_err2' => "le message n'a pas été sauvegardé!",
 	'pm_draft_new' => "Nouveau Brouillon",
-	'pm_draft_subject' => "Sujet:",
+	'pm_draft_subject' => "Sujet: ",
 	'pm_draft_body' => "Corps:",
 	'pm_draft_preview' => "Prévisualiser",
-	'pm_draft_save' => "Sauvegarder le Brouillon",
+	'pm_draft_save' => "Sauvegarder",
 	'pm_draft_add' => "Ajouter:",
 	//===save or edit draft
 	'pm_draft_wasnt' => "Le brouillon n'a pas été sauvegardé!",
@@ -185,6 +202,7 @@ $lang = array(
 	'pm_search_display' => "Afficher comme:",
 	'pm_search_list' => "Liste ",
 	'pm_search_message' => "Message",
+	'pm_search_btn1' => "Chercher",
 	'pm_search_your_for' => "Votre recherche pour la chaîne ",
 	'pm_search_pms' => "\'s PMs",
 	'pm_search_sysmsg' => "messages System",
@@ -275,11 +293,11 @@ $lang = array(
 	'pm_mailbox_unreadmsgs' => " Messages non-lus.",	
 	//view msg
 	'pm_viewmsg_errr' => "Vous n'avez pas la permission de voir ce message.",
-	'pm_viewmsg_sdraft' => "sauvegarder comme Brouillon",
-	'pm_viewmsg_reply' => "répondre",
-	'pm_viewmsg_delete' => "supprimer",
-	'pm_viewmsg_dedit' => "éditer le Brouillon",
-	'pm_viewmsg_duse' => "utiliser le Brouillon",
+	'pm_viewmsg_sdraft' => "Sauvegarder comme Brouillon",
+	'pm_viewmsg_reply' => "Répondre",
+	'pm_viewmsg_delete' => "Supprimer",
+	'pm_viewmsg_dedit' => "Editer le Brouillon",
+	'pm_viewmsg_duse' => "Utiliser le Brouillon",
 	'pm_viewmsg_fwd' => "faire suivre",
 	'pm_viewmsg_move' => "déplacer",
 	'pm_viewmsg_tdraft' => "C'est un Brouillon",
@@ -290,6 +308,7 @@ $lang = array(
 	//addby yoooov
 	'pm_mailbox_doav' => "Afficher les avatars sur la liste de PM",
 	'pm_edmail_email_notif3' => "Notification de Torrent:",
-	'pm_search_btn1' => "Chercher"
+	'pm_viewmsg_sent' => "Envoyé le: ",
+	'pm_send_edt' => "Editer"
 );
 ?>

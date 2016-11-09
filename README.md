@@ -12,7 +12,7 @@ U-232 V5 -> High performance Bittorrent tracker
 
 ## French Language Pack
 
-### Language Translators
+### Language Translator
 
 - *yoooov*
 
@@ -25,7 +25,7 @@ U-232 V5 -> High performance Bittorrent tracker
 
 Upload the files to your server to /lang/4
 
-Then edit the following files :
+Then edit the following files of your U-232 V5 site:
 
 ### /usercp.php
 
