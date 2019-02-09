@@ -20,10 +20,10 @@ $lang = array(
     //stderr//stdmsg
     'std_error' => "Erreur",
     'std_nf' => "Rien trouvé!",
-    'std_invalid' => "ID Invalide!", 
+    'std_invalid' => "ID invalide!", 
     'std_sorry' => "Désolé",
     //Texts
-    'text_markall' => "Tout Marquer",
+    'text_markall' => "Tout marquer",
     'text_du' => "Membres désactivés: ",
     'text_pu' => "Membres en attente: ",
     'text_username' => "Pseudo",
