@@ -23,9 +23,9 @@ $lang = array(
     'achievement_history_err1' => 'Il semble que vous ayez entré un identifiant invalide.',
     'achievement_history_no' => 'Pas de chance',
     'achievement_history_err2' => 'Il semble que ',
-    'achievement_history_err3' => ' n\'a pour le moment acquis aucun Trophée.',
+    'achievement_history_err3' => ' n\'a pour le moment acquis aucun trophée.',
     // body
-    'achievement_history_al' => 'Liste des Trophées',
+    'achievement_history_al' => 'Liste des trophées',
     'achievement_history_fpc' => 'Compteur des sujets du Forum',
     'achievement_history_ftc' => 'Compteur des messages du Forum',
     'achievement_history_ic' => 'Compteur des Invitations',
@@ -38,6 +38,6 @@ $lang = array(
     'achievement_history_descr' => 'Description',
     'achievement_history_date' => 'Date du gain',
     //stdhead
-    'achievement_history_stdhead' => 'Historique des Trophées'
+    'achievement_history_stdhead' => 'Historique des trophées'
 );
 ?>
