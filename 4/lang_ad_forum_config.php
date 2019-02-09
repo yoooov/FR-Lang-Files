@@ -18,8 +18,8 @@
  */
 $lang = array(
     'forum_config_over' => "Forums",
-    'forum_config_manager'  =>  "Administration des Forums",
-    'forum_config_config'   =>  "Configuration des Forums",
+    'forum_config_manager'  =>  "Administration des forums",
+    'forum_config_config'   =>  "Configuration des forums",
     'forum_config_edit' =>  "Forums d'édition",
     'forum_config_delete'   =>  "Supprimer Sujets/Discussions:",
     'forum_config_yes'  =>  "Oui",
