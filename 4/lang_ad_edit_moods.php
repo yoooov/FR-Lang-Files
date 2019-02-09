@@ -18,9 +18,9 @@
  */
 $lang = array(
 	'moods_example' => "est un exemple d'humeur",
-	'moods_added' => "Humeur Ajoutée",
-	'moods_edited' => "Humeur Editée",
-	//'moods_deleted' => "Mood Deleted",
+	'moods_added' => "Humeur ajoutée",
+	'moods_edited' => "Humeur éditée",
+	//'moods_deleted' => "Humeur supprimée",
 	'moods_edit' => "Editer l'humeur",
 	'moods_name' => "Nom",
 	'moods_image' => "Image",
@@ -30,7 +30,7 @@ $lang = array(
 	'moods_current' => "Humeurs actuelles",
 	'moods_added1' => "Ajouté",
 	'moods_edit1' => "Editer",
-	//'moods_remove' => "Remove",
+	//'moods_remove' => "Supprimer",
 	'moods_yes' => "Oui",
 	'moods_no' => "Non",
 	'moods_stdhead' => "Editer les humeurs"
