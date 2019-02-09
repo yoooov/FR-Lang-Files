@@ -27,6 +27,6 @@ $lang = array(
 	'comm_check_chk' => "Vérifié.",
 	'comm_check_chk1' => "Vérifié?",
 	'comm_check_read' => "Marquer comme vérifié",
-	'comm_check_stdhead' => "Vérification de Commentaire"
+	'comm_check_stdhead' => "Vérification de commentaire"
 );
 ?>
