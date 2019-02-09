@@ -17,7 +17,7 @@
  \_/ \_/ \_/ \_/ \_/   \_/ \_/ \_/ \_/ \_/ \_/   \_/ \_/ \_/ \_/
  */
 $lang = array(
-    'text_settings' => "Paramètres de Bloc",
+    'text_settings' => "Paramètres de bloc",
     'text_block' => "Bloc",
     'text_pos' => "Position",
     'text_id' => "Identification du tri",
