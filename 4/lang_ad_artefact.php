@@ -21,7 +21,7 @@ $lang = array(
 	'upload_add_genre'  => "Genre",
 	'upload_add_movie'  => "Films",
 	'upload_add_music'  => "Musique",
-	'upload_add_game'  => "SérieTV",
+	'upload_add_game'  => "Séries TV",
 	'upload_add_apps'  => "Apps",
 	'upload_add_none'  => "None",
 	//
@@ -33,24 +33,24 @@ $lang = array(
 	'movie_mv6'  => "Crime",
 	'movie_mv7'  => "Sci-fi",
 	//
-	'music_m1'   => "Hip Hop",
+	'music_m1'   => "Hip-Hop",
 	'music_m2'   => "Rock",
 	'music_m3'   => "Pop",
 	'music_m4'   => "Jazz",
 	'music_m5'   => "Electronic",
-	'music_m6'   => "Autre",
+	'music_m6'   => "Autres",
 	//
 	'game_g1'    => "Crime",
 	'game_g2'    => "Drame",
 	'game_g3'    => "Thriller",
 	'game_g4'    => "Sci-fi",
-	'game_g5'    => "Autre",
+	'game_g5'    => "Autres",
 	//
 	'app_mv1'    => "Burning",
 	'app_mv2'    => "Encoding",
 	'app_mv3'    => "Anti-Virus",
 	'app_mv4'    => "Office",
-	'app_mv5'    => "Os",
+	'app_mv5'    => "OS",
 	'app_mv6'    => "Misc",
 	'app_mv7'    => "Image"
 );
