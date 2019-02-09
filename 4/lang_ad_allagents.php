@@ -19,6 +19,6 @@
 $lang = array(
         'allagents_client' => "Client",
         'allagents_peerid' => "ID Peer",
-        'allagents_allclients' => "Tous les Clients"
+        'allagents_allclients' => "Tous les clients"
 )
 ?>
