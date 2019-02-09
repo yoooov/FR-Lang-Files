@@ -37,7 +37,7 @@ $lang = array(
 	'categories_add_error2' =>  "Ce nom de fichier n'est pas autorisé",
 	//delete_cat
 	'categories_del_error1' =>  "Il y a eu une erreur pendant la suppression de la catégorie",
-	'categories_del_warning'    =>  "Attention: Il y a des Torrents dans cette catégorie, vous devez donc sélectionner une catégorie pour les placer dedans.",
+	'categories_del_warning'    =>  "Attention: Il y a des torrents dans cette catégorie, vous devez donc sélectionner une catégorie pour les placer dedans.",
 	'categories_del_about'  =>  "Vous êtes sur le point d\'effacer une catégorie: ",
 	'categories_del_name'   =>  "Nom:",
 	'categories_del_description'    =>  "Description:",
@@ -45,14 +45,14 @@ $lang = array(
 	'categories_del_delete' =>  "Supprimer",
 	'categories_del_stdhead'    =>  "Suppression de la catégorie ",
 	//edit_cat
-	'categories_edit_error1'    =>  "Certains champs ont été laissés vide ",
+	'categories_edit_error1'    =>  "Certains champs ont été laissés vides",
 	'categories_edit_error2'    =>  "Ce nom de fichier n'est pas autorisé",
 	'categories_edit_select'    =>  "Sélectionner une image",
 	'categories_edit_select_new'    =>  "Selectionner une nouvelle image:",
 	'categories_edit_warning'   =>  "Attention: Il n'y a aucune image dans le répertoire, merci d'en uploader une.",
 	'categories_edit_warning1'   =>  "Attention: Si vous voulez une nouvelle image, vous devez d'abord l'uploader dans le dossier /caticon/ ",
 	'categories_edit_info'  =>  "Info: Si vous voulez une nouvelle image, vous devez d'abord l'uploader dans le dossier /caticon/ ",
-	'categories_edit_name'   =>  "Nouveau Nom:",
+	'categories_edit_name'   =>  "Nouveau nom:",
 	'categories_edit_edit'  =>  "Editer",
 	'categories_edit_stdhead'   =>  "Edition de la catégorie: ",
 	//show_categories
