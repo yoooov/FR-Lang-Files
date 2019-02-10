@@ -18,7 +18,7 @@ U-232 V5 -> High performance Bittorrent tracker
 
 ##	Support Forum
 
-- <https://forum-u-232.servebeer.com>
+- <http://u-232.servebeer.com/forum/index.php>
 
 ## Set Up Instructions:
 
