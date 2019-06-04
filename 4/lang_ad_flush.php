@@ -20,7 +20,7 @@ $lang = array(
     //Flush
     'flush_stderror' => "Erreur",
     'flush_invalid' => "ID Invalide.",
-    'flush_log1'    =>  "Le Staff a flushé ",
+    'flush_log1'    =>  "Le staff a flushé ",
     'flush_log2'    =>  "'s torrents fantômes à ",
     'flush_log3'    =>  ". ",
     'flush_log4'    =>  " torrents nettoyés avec succès.",
