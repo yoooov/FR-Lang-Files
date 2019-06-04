@@ -21,7 +21,7 @@ $lang = array(
     'wiki_access_denied' => "Accès refusé",
     'wiki_add' => "Ajouter",
     'wiki_added_by' => " Ajouté par ",
-	'wiki_added_by1' => " Ajouté par: ",
+    'wiki_added_by1' => " Ajouté par: ",
     'wiki_added_by_art' => "Article ajouté par ",
     'wiki_art_found_starting' => "Articles commençant par la lettre: ",
     'wiki_edit' => "Editer",
@@ -30,7 +30,7 @@ $lang = array(
     'wiki_found' => "trouvé",
     'wiki_index' => "Index",
     'wiki_last_upd_by' => "Dernière mise à jour par",
-    'wiki_latest_article' => "Dernier Article: ",
+    'wiki_latest_article' => "Dernier article: ",
     'wiki_no_art_found' => "Aucun article trouvé.",
     'wiki_no_art_found_starting' => "Aucun article commençant par la lettre ",
     'wiki_permissions' => "Permissions",
@@ -38,6 +38,6 @@ $lang = array(
     'wiki_search' => "Chercher",
     'wiki_search_res_for' => "Chercher les occurences pour",
     'wiki_write_user' => "Ecrire: Utilisateur",
-	'wiki_ok' => "OK"
+    'wiki_ok' => "OK"
 );
 ?>
