@@ -34,18 +34,18 @@ $lang = array(
 	'classpromo_err_required' => "Données requises non renseignées!",
 	'classpromo_user_sett' => "Paramètres de Promotion des membres",
 	'classpromo_clsname' => "Nom de la classe",
-	'classpromo_minratio' => "Ratio Minimum ",
-	'classpromo_minupl' => "Minimum Uploadé (GB)",
-	'classpromo_mintime' => "Temps sur le TK (Jours)",
+	'classpromo_minratio' => "Ratio minimum ",
+	'classpromo_minupl' => "Minimum uploadé (GB)",
+	'classpromo_mintime' => "Temps sur le TK (jours)",
 	'classpromo_lowratio' => "Ratio seuil",
 	'classpromo_remove' => "Retirer",
 	'classpromo_apply' => "Appliquer les modifications",
-	'classpromo_info_minratio' => "Ratio Min = Le ratio minimum dont un utilisateur a besoin pour atteindre cette classe.",
-	'classpromo_info_minupl' => "Min Uploadé = La quantité uploadée dont un utilisateur a besoin pour atteindre cette classe.",
+	'classpromo_info_minratio' => "Ratio min = Le ratio minimum dont un utilisateur a besoin pour atteindre cette classe.",
+	'classpromo_info_minupl' => "Min uploadé = La quantité uploadée dont un utilisateur a besoin pour atteindre cette classe.",
 	'classpromo_info_mintime' => "Temps sur le TK = La durée minimale depuis son inscription sur le site dont un utilisateur a besoin pour prétendre à cette classe.",
 	'classpromo_info_lowratio' => "Ratio seuil = Si un utilisateur de cette classe tombe en dessous de ce ratio, il sera rétrogradé à la classe inférieure.",
-	'classpromo_add_new_rule' => "AJOUTER UNE NOUVELLE REGLE DE PROMOTION",
+	'classpromo_add_new_rule' => "Ajouter une nouvelle règle de promotion",
 	'classpromo_add_new' => "Ajouter une nouvelle classe",
-	'classpromo_stdhead' => "Paramètre de Promotion"
+	'classpromo_stdhead' => "Paramètre de promotion"
 );
 ?>
