@@ -39,7 +39,7 @@ $lang = array(
 	'deathrow_new_torr' => " sur le nouveau torrent",
 	'deathrow_hidden' => "Masquer",
 	'deathrow_delete' => "Supprimer",
-	'deathrow_delete1' => "&nbsp;&nbsp;Supprimer",
+	'deathrow_delete1' => "  Supprimer",
 	'deathrow_ownstaff' => "Propriétaire/Staff",
 	'deathrow_checkall' => "Vérifiez tout",
 	'deathrow_apply' => "Appliquer les changements",
@@ -56,6 +56,6 @@ $lang = array(
 	'deathrow_msg8' => "Retournons à nos affaires.",
 	'deathrow_msg9' => "Passez votre chemin...",
 	'deathrow_msg0' => "Allez circulez...",
-	'deathrow_stdhead0' => "0 Torrents à l'agonie"	
+	'deathrow_stdhead0' => "0 torrent à l'agonie"	
 );
 ?>
